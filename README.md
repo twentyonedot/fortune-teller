@@ -2,4 +2,4 @@
 
 # Things that I learned by doing this project.
 
-    * Generating Random Numbers by using Math.random
+    1.Generating Random Numbers by using Math.random
