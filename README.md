@@ -10,3 +10,5 @@
 - Shuffling the array in place by using above rand function.
 - Preventing Cross-site-scripting(XSS) attacks by sanitizing the html before passing it to innerHTML.
 - How to add accessibility to the dynamically changing content by using 'aria-live'.
+
+## Update 1.0
